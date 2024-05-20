@@ -1,0 +1,9 @@
+Uppgift 1:
+en class för Employee, men hade kunnat skapa en anna class 
+för RegisterEmployee men tänkte håller enkel som först uppgift hehe.
+
+Uppgift 2
+attribut fÖR Employee class
+-String Name 
+-decimal Salary
+-Construkter för sätt dess attribute första gång object skapas 
