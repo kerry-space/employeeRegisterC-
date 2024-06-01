@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Personalregister/1.0.0": {
+      "Employees.Helpers/1.0.0": {
         "runtime": {
-          "Personalregister.dll": {}
+          "Employees.Helpers.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Personalregister/1.0.0": {
+    "Employees.Helpers/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

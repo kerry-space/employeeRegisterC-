@@ -6,4 +6,4 @@ Uppgift 2
 attribut fÖR Employee class
 -String Name 
 -decimal Salary
--Construkter för sätt dess attribute första gång object skapas 
+-Construkter för sätt dess attribute första gång object skapas    

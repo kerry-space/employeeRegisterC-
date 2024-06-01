@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "Employees.Helpers/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Employees.Helpers.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Employees.Helpers.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "Employees.Helpers/1.0.0": {
-      "type": "project",
-      "path": "Employees.Helpers/Employees.Helpers.csproj",
-      "msbuildProject": "Employees.Helpers/Employees.Helpers.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "Employees.Helpers >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "/Users/kerryspace/.nuget/packages/": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Personalregister.csproj",
-      "projectName": "Personalregister",
-      "projectPath": "/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Personalregister.csproj",
+      "projectUniqueName": "/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Employees.Helpers/Employees.Helpers.csproj",
+      "projectName": "Employees.Helpers",
+      "projectPath": "/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Employees.Helpers/Employees.Helpers.csproj",
       "packagesPath": "/Users/kerryspace/.nuget/packages/",
-      "outputPath": "/Users/kerryspace/Desktop/c#-fullstack/Personalregister/obj/",
+      "outputPath": "/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Employees.Helpers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kerryspace/.nuget/NuGet/NuGet.Config"
@@ -51,11 +32,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Employees.Helpers/Employees.Helpers.csproj": {
-              "projectPath": "/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Employees.Helpers/Employees.Helpers.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

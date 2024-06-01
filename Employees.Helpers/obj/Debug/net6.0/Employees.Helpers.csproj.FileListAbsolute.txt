@@ -1,0 +1,10 @@
+/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Employees.Helpers/bin/Debug/net6.0/Employees.Helpers.deps.json
+/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Employees.Helpers/bin/Debug/net6.0/Employees.Helpers.dll
+/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Employees.Helpers/bin/Debug/net6.0/Employees.Helpers.pdb
+/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Employees.Helpers/obj/Debug/net6.0/Employees.Helpers.csproj.AssemblyReference.cache
+/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Employees.Helpers/obj/Debug/net6.0/Employees.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Employees.Helpers/obj/Debug/net6.0/Employees.Helpers.csproj.CoreCompileInputs.cache
+/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Employees.Helpers/obj/Debug/net6.0/Employees.Helpers.dll
+/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Employees.Helpers/obj/Debug/net6.0/refint/Employees.Helpers.dll
+/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Employees.Helpers/obj/Debug/net6.0/Employees.Helpers.pdb
+/Users/kerryspace/Desktop/c#-fullstack/Personalregister/Employees.Helpers/obj/Debug/net6.0/ref/Employees.Helpers.dll

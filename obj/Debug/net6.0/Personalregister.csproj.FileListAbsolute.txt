@@ -1,15 +1,3 @@
 /Users/kerryspace/Desktop/c#-fullstack/Personalregister/obj/Debug/net6.0/Personalregister.csproj.AssemblyReference.cache
 /Users/kerryspace/Desktop/c#-fullstack/Personalregister/obj/Debug/net6.0/Personalregister.GeneratedMSBuildEditorConfig.editorconfig
-/Users/kerryspace/Desktop/c#-fullstack/Personalregister/obj/Debug/net6.0/Personalregister.AssemblyInfoInputs.cache
-/Users/kerryspace/Desktop/c#-fullstack/Personalregister/obj/Debug/net6.0/Personalregister.AssemblyInfo.cs
 /Users/kerryspace/Desktop/c#-fullstack/Personalregister/obj/Debug/net6.0/Personalregister.csproj.CoreCompileInputs.cache
-/Users/kerryspace/Desktop/c#-fullstack/Personalregister/bin/Debug/net6.0/Personalregister
-/Users/kerryspace/Desktop/c#-fullstack/Personalregister/bin/Debug/net6.0/Personalregister.deps.json
-/Users/kerryspace/Desktop/c#-fullstack/Personalregister/bin/Debug/net6.0/Personalregister.runtimeconfig.json
-/Users/kerryspace/Desktop/c#-fullstack/Personalregister/bin/Debug/net6.0/Personalregister.dll
-/Users/kerryspace/Desktop/c#-fullstack/Personalregister/bin/Debug/net6.0/Personalregister.pdb
-/Users/kerryspace/Desktop/c#-fullstack/Personalregister/obj/Debug/net6.0/Personalregister.dll
-/Users/kerryspace/Desktop/c#-fullstack/Personalregister/obj/Debug/net6.0/refint/Personalregister.dll
-/Users/kerryspace/Desktop/c#-fullstack/Personalregister/obj/Debug/net6.0/Personalregister.pdb
-/Users/kerryspace/Desktop/c#-fullstack/Personalregister/obj/Debug/net6.0/Personalregister.genruntimeconfig.cache
-/Users/kerryspace/Desktop/c#-fullstack/Personalregister/obj/Debug/net6.0/ref/Personalregister.dll

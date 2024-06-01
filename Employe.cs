@@ -1,12 +1,22 @@
 using System;
 using System.Collections.Generic;
 
-public class Employee {
-    public string Name { get; set; }
-    public decimal Salary { get; set; }
+namespace Personalregister{  
+    public class Employee {
+        private string Name {get;}
+        private uint Salary {get;}
 
-    public Employee(string name, decimal salary) {
-        Name = name;
-        Salary = salary;
+        
+
+        public Employee(string name, uint  salary) {
+            Name = name;
+            Salary = salary;
+        }
+
+    
+        
+        public String Print(){
+            return $"Name: {Name} Salary: {Salary}";
+        }
     }
 }

@@ -1,35 +1,68 @@
 ﻿using System;
 using System.Collections.Generic;
+using Employees.Helpers;
 
-class Program
-{
-    static void Main()
+namespace Personalregister{ 
+    internal class Program
     {
-        List<Employee> employees = new List<Employee>();
+        private static PayRoll _payRoll = new PayRoll();
 
-        while (true)
-        {
-            //ask user
-            Console.WriteLine("Enter employee's name (or type 'exit' to end):");
-            string name = Console.ReadLine();
+        
+        static void Main()
+        {   
            
-           //exit program 
-            if (name.ToLower() == "exit") break;
 
-            Console.WriteLine("Enter employee's salary:");
-            decimal salary = decimal.Parse(Console.ReadLine());
+            do
+            {
+                showMainMeny();
+                String input = Console.ReadLine();
 
-            //create new employe object 
-            Employee employee = new  Employee(name, salary);
-            //save to list of emloyees 
-            employees.Add(employee);
+                switch (input){
+                    case "1":
+                        AddEmployee();
+                        break;
+                    case "2":
+                        PrintEmployee();
+                        break;
+                    case "3":
+                        Environment.Exit(0);
+                        break;
+                    default:
+                        break; 
+                }
+            } while (true);
+
         }
 
-        //print out
-        Console.WriteLine("\nRegistered Employees:");
-        foreach (Employee employee in employees)
+
+        private static void AddEmployee(){
+        
+            String name = Util.AskForString("Name");
+            uint salary = Util.AskForUInt("Salary");
+
+        }
+
+
+        private static void PrintEmployee()
         {
-            Console.WriteLine($"Name: {employee.Name}, Salary: {employee.Salary:C}");
+            List<Employee> employees = _payRoll.GetEmployees();
+            
+            foreach (Employee employee in employees){
+                Console.WriteLine(employee.Print());
+
+            }
+            
         }
+        private static void showMainMeny(){
+            Console.WriteLine("1. Add");
+            Console.WriteLine("2. Print");
+            Console.WriteLine("3. Quit");
+        }
+
+       //private static void AddEmployee(){
+        //        _payRoll.AddEmployee("sandra", 60000);
+        //        _payRoll.AddEmployee("kerry", 60000);
+        //}
+           
     }
 }
